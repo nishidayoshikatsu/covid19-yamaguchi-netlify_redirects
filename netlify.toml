@@ -1,3 +1,5 @@
 [[redirects]]
-from = "https://covid19-yamaguchi.netlify.app/"
-to = "https://yamaguchi.stopcovid19.jp/"
+  from = "https://covid19-yamaguchi.netlify.app/"
+  to = "https://yamaguchi.stopcovid19.jp/"
+  status = 301
+  force = true
